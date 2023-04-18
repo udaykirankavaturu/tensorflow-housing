@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: NN_from_scratch_house_price_data.ipynb
+  checksum: c7a4d67ef30ce366fc44f10a33429ab82b897e70f3105dce0874aac6786deed6
+version: ""
